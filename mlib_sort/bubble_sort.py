@@ -15,6 +15,8 @@ if __name__ == "__main__":
     input_list = [random.randint(1, 100) for _ in range(10)]
     sorted_list = bubble_sort(input_list)
     reversed_sorted_list = bubble_sort(input_list, reversed = True)
-    print(input_list)
-    print(sorted_list)
-    print(reversed_sorted_list)
+    
+    print("### BUBBLE SORT ###")
+    print("Input list:", input_list)
+    print("Output list (Descending):", sorted_list)
+    print("Output list (Ascending):", reversed_sorted_list)

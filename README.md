@@ -1,7 +1,7 @@
 # Self-implement of sort algorithms
 
 - [x] Bubble Sort
-- [ ] Insertion Sort
+- [x] Insertion Sort
 - [ ] Selection Sort
 - [ ] Shell Sort
 - [ ] Merge Sort
