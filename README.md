@@ -1,4 +1,6 @@
-# Self-implement of sort algorithms
+# Self-implement of algorithms
+
+## Sorting Algorithms
 
 - [x] Bubble Sort
 - [x] Insertion Sort
